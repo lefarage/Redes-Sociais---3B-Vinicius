@@ -7,3 +7,10 @@
     --font: "Nunito":"Nunito", sans-serif;
 
 }
+
+body{
+        background-color: var(--bg-color);
+        color: var(--primary-color);
+        font: var(--font);
+        height: 100vh;
+}
